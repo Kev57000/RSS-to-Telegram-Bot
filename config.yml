@@ -1,0 +1,14 @@
+telegram:
+  token: ${TELEGRAM_TOKEN}
+  chat_id: ${TELEGRAM_CHAT_ID}
+
+rss:
+  - url: "https://www.estrepublicain.fr/rss"
+  - url: "https://www.republicain-lorrain.fr/rss"
+  - url: "https://www.dna.fr/rss"
+  - url: "https://www.vosgesmatin.fr/rss"
+  - url: "https://www.lunion.fr/rss"
+  - url: "https://www.lalsace.fr/rss"
+  - url: "https://www.francebleu.fr/rss/lorraine-nord.xml"
+  - url: "https://www.francebleu.fr/rss/alsace.xml"
+  - url: "https://www.francebleu.fr/rss/champagne-ardenne.xml"
